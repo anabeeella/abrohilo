@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Bootstrap CSS -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <!--FONTS-->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        </style>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+        <title>Abro Hilo - Temas</title>
+    </head>
+    <body>
+        <!-- Just an image -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-blue mb-4">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="img/home/logo_barra.png" alt="" width="150">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav center-content">
+                        <a class="nav-link" href="#">Autores</a>
+                        <a class="nav-link active" aria-current="page"  href="#">Temas</a>
+                        <a class="nav-link" href="#">Quiénes somos</a>
+                        <a class="nav-link" href="#">Escribí en ah</a>
+                    </div>
+                    <div class="navbar-nav social-media">
+                        <a class="nav-link" href="https://twitter.com/abrohiloarg"><img src="img/home/icono_tw.png"></a>
+                        <a class="nav-link" href="https://www.instagram.com/abrohilo.arg/"><img src="img/home/icono_ig.png"></a>
+                        <a class="nav-link" href="https://www.linkedin.com/company/abro-hilo/"><img src="img/home/icono_in.png"></a>
+                        <a class="nav-link" href="https://www.facebook.com/abrohiloarg/"><img src="img/home/icono_fb.png"></a>
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCe29oLsvmxz8IPoRj_UtA8w"><img src="img/home/icono_yt.png"></a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <main class="container mb-5">
+            <div class="row">
+                <!-- ASIDE filtros-->
+                <div class="col-3">
+                    <div class="autores-index d-inline justify-content-between">
+                        <h4 class="py-3">ORDENAR POR:</h4>
+                        <img alt="" src="img/home/icono_nuestro_equipo-11-11.png">
+                    </div>
+                </div>
+                <!-- Notas-->
+                <div class="col-9">
+                    <!--Nota ppal-->
+                    <a href="https://www.gmail.com" class="text-decoration-none">
+                        <img class="w-100" alt="" src="https://via.placeholder.com/600x80">
+                        <div class=" bg-primary p-4 mb-4">
+                            <p class="titular-news-home">${allNotas.title}</p>
+                            <p class="bajada-news-home">${allNotas.description}</p>
+                            <hr class="hr-news-home">
+                            <p class="autor-news-home">Por ${allNotas.autor}</p>
+                        </div>
+                        </a>
+                    <div id="grid-notas" class="row">
+                        <!-- Temas.js -->
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="container-fluid bg-footer pb-5 pt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img class="logo-footer d-block" src="img/home/logo_barra.png" alt="">
+                        <div class="row info-izq">
+                            <div class="col-sm-6 pt-2">
+                                <span><img class="span-mail" src="img/home/icono_contacto.png"></span><a href="mailto:abrohiloblog@gmail.com" class="a-mailing d-inline">abrohiloblog@gmail.com</a>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="navbar-nav social-media footer-socialmedia">
+                                    <a class="nav-link" href="https://twitter.com/abrohiloarg"><img src="img/home/icono_tw.png"></a>
+                                    <a class="nav-link" href="https://www.instagram.com/abrohilo.arg/"><img src="img/home/icono_ig.png"></a>
+                                    <a class="nav-link" href="https://www.linkedin.com/company/abro-hilo/"><img src="img/home/icono_in.png"></a>
+                                    <a class="nav-link" href="https://www.facebook.com/abrohiloarg/"><img src="img/home/icono_fb.png"></a>
+                                    <a class="nav-link" href="https://www.youtube.com/channel/UCe29oLsvmxz8IPoRj_UtA8w"><img src="img/home/icono_yt.png"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="navbar-nav center-content footer-nav">
+                            <a class="nav-link" href="#">Autores</a>
+                            <a class="nav-link active" aria-current="page" href="#">Temas</a>
+                            <a class="nav-link" href="#">Quiénes somos</a>
+                            <a class="nav-link" href="#">Escribí en ah</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h4 class="h4-contacto-footer">Contactanos</h4>
+                        <form class="form-footer">
+                            <div class="form-group">
+                                <label for="exampleInputEmail1"></label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            </div>
+                            <div class="form-group mb-4">
+                                <label for="exampleFormControlTextarea1">Example textarea</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Escríbanos"></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary boton-enviar">Enviar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </footer>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="js/temas.js"></script>
+    </body>
+</html>

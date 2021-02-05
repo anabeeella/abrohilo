@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "tag": "Sociedad",
+      "date": "12/12/20",
+      "title": "La etiqueta importa. ¿Con eso basta?",
+      "description": "De viaje por Australia me llamó la atención la diferencia en el rótulo de productos alimenticios con respecto a Argentina.",
+      "autor": "Mariel Cagliolo",
+      "destacado": true,
+      "link": "https://www.google.com"
+    },
+    {
+      "id": 2,
+      "tag": "Sociedad",
+      "date": "9/12/20",
+      "title": "Aborto legal: Proyecto 2020 y diferencias con 2018",
+      "description": "El Proyecto de Interrupción Voluntaria del Embarazo (IVE) enviado por el PEN a la Cámara de Diputados de la Nación.",
+      "autor": "Carolina Alamino y Guillermina Greco",
+      "destacado": false,
+      "link": "https://www.google.com"
+      },
+      {
+        "id": 3,
+        "tag": "Economía",
+        "date": "25/12/20",
+        "title": "La etiqueta importa. ¿Con eso basta?",
+        "description": "De viaje por Australia me llamó la atención la diferencia en el rótulo de productos alimenticios con respecto a Argentina.",
+        "autor": "Mariel Cagliolo",
+        "destacado": false,
+        "link": "https://www.google.com"
+      },
+      {
+        "id": 4,
+        "tag": "Sociedad",
+        "date": "10/1/21",
+        "title": "La etiqueta importa. ¿Con eso basta?",
+        "description": "De viaje por Australia me llamó la atención la diferencia en el rótulo de productos alimenticios con respecto a Argentina.",
+        "autor": "Mariel Cagliolo",
+        "destacado": false,
+        "link": "https://www.google.com"
+      },
+      {
+        "id": 5,
+        "tag": "Sociedad",
+        "date": "12/12/20",
+        "title": "La etiqueta importa. ¿Con eso basta?",
+        "description": "De viaje por Australia me llamó la atención la diferencia en el rótulo de productos alimenticios con respecto a Argentina.",
+        "autor": "Mariel Cagliolo",
+        "destacado": false,
+        "link": "https://www.google.com"
+      },
+      {
+        "id": 6,
+        "tag": "Economía",
+        "date": "18/1/21",
+        "title": "La etiqueta importa. ¿Con eso basta?",
+        "description": "De viaje por Australia me llamó la atención la diferencia en el rótulo de productos alimenticios con respecto a Argentina.",
+        "autor": "Mariel Cagliolo",
+        "destacado": false,
+        "link": "https://www.google.com"
+      }
+]

@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "name": "Agustín Claus",
+      "img": "./img/fotos_autores/agustin_claus.png",
+      "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+      "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+      "twitter" : "https://twitter.com/abrohiloarg",
+      "instagram": "https://twitter.com/abrohiloarg",
+      "linkedin": "https://twitter.com/abrohiloarg",
+      "facebook": "https://twitter.com/abrohiloarg"
+    },
+    { 
+      "id": 2,
+      "name": "Agustina Jacobo",
+      "img": "./img/fotos_autores/agustina_jacobo.png",
+      "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+      "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+      "twitter" : "https://twitter.com/abrohiloarg",
+      "instagram": "https://twitter.com/abrohiloarg",
+      "linkedin": "https://twitter.com/abrohiloarg",
+      "facebook": "https://twitter.com/abrohiloarg"
+    },
+    { 
+      "id": 3,
+      "name": "Alejo Vidal",
+      "img": "./img/fotos_autores/alejo_vidal.png",
+      "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+      "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+      "twitter" : "https://twitter.com/abrohiloarg",
+      "instagram": "https://twitter.com/abrohiloarg",
+      "linkedin": "https://twitter.com/abrohiloarg",
+      "facebook": "https://twitter.com/abrohiloarg"
+    },
+    { 
+        "id": 4,
+        "name": "Ana Julia Aneise",
+        "img": "./img/fotos_autores/ana_julia_aneise.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 5,
+        "name": "Ana Montañez",
+        "img": "./img/fotos_autores/ana_montañez.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+        
+      },
+      { 
+        "id": 6,
+        "name": "Andrés Fortunato",
+        "img": "./img/fotos_autores/andres_fortunato.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 7,
+        "name": "Andrés Schipani",
+        "img": "./img/fotos_autores/andres_schipani.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 8,
+        "name": "Andy Tow",
+        "img": "./img/fotos_autores/andy_tow.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 9,
+        "name": "Augusto Salvatto",
+        "img": "./img/fotos_autores/augusto_salvatto.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 10,
+        "name": "Camila Villar Figueroa",
+        "img": "./img/fotos_autores/camila_villar-figueroa.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 11,
+        "name": "Carina Solmirano",
+        "img": "./img/fotos_autores/carina_solmirano.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 12,
+        "name": "Catherine Greene",
+        "img": "./img/fotos_autores/catherine_greene.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 13,
+        "name": "Cathirel Greppi",
+        "img": "./img/fotos_autores/catrihel_greppi.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 14,
+        "name": "Cecilia Adrogué",
+        "img": "./img/fotos_autores/cecilia_adrogue.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 15,
+        "name": "Celeste Ghiano",
+        "img": "./img/fotos_autores/celeste_ghiano.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 16,
+        "name": "Delfina Godfrid",
+        "img": "./img/fotos_autores/delfina_godfrid.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 17,
+        "name": "Denise Laurens",
+        "img": "./img/fotos_autores/denise_laurens.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 18,
+        "name": "Diego Pando",
+        "img": "./img/fotos_autores/diego_pando.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 19,
+        "name": "Elisabeth Mölhe",
+        "img": "./img/fotos_autores/elisabeth_mölhe.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 20,
+        "name": "Emilia Cerra",
+        "img": "./img/fotos_autores/emilia_cerra.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 21,
+        "name": "Enzo Dominguez",
+        "img": "./img/fotos_autores/enzo_dominguez_prost.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 22,
+        "name": "Erika Edwards",
+        "img": "./img/fotos_autores/erika_edwards.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 23,
+        "name": "Esteban Scuzarello",
+        "img": "./img/fotos_autores/esteban_scuzarello.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      },
+      { 
+        "id": 24,
+        "name": "Fabián Ruocco",
+        "img": "./img/fotos_autores/fabian_ruocco.png",
+        "career": "Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA)",
+        "description": "Maestrando en Gestión Pública y Desarrollo Gubernamental y Licenciado en Administración por la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA). Docente de postgrado en Economía y Administración de la Educación en la Facultad Latinoamericana de Ciencias Sociales (FLACSO) e investigador asociado del Programa de Educación del Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC). Es autor de varios capítulos de libros y múltiples artículos científicos. Como profesional se desempeña como formulador de políticas públicas educativas.",
+        "twitter" : "https://twitter.com/abrohiloarg",
+        "instagram": "https://twitter.com/abrohiloarg",
+        "linkedin": "https://twitter.com/abrohiloarg",
+        "facebook": "https://twitter.com/abrohiloarg"
+      }
+]
