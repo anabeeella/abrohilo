@@ -4,6 +4,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <!-- Bootstrap CSS -->
         <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
@@ -14,13 +15,13 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-        <title>Abro Hilo - Temas</title>
+        <title>Abro Hilo - Escribí en AH</title>
     </head>
     <body>
         <!-- Just an image -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-blue mb-4">
             <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="#">
                     <img src="img/home/logo_barra.png" alt="" width="150">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,9 +30,9 @@
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav center-content">
                         <a class="nav-link" href="autores.html">Autores</a>
-                        <a class="nav-link active" aria-current="page"  href="#">Temas</a>
+                        <a class="nav-link" href="temas.html">Temas</a>
                         <a class="nav-link" href="quienes-somos.html">Quiénes somos</a>
-                        <a class="nav-link" href="escribir-en-ah.html">Escribí en ah</a>
+                        <a class="nav-link active" href="#">Escribí en ah</a>
                     </div>
                     <div class="navbar-nav social-media">
                         <a class="nav-link" href="https://twitter.com/abrohiloarg"><img src="img/home/icono_tw.png"></a>
@@ -43,70 +44,36 @@
                 </div>
             </div>
         </nav>
-        <main class="container mb-5">
-            <div class="row">
-                <!-- ASIDE filtros-->
-                <div class="col-3" id="filtros-aside">
-                    <div class="autores-index d-flex align-items-start">
-                        <h4 class="py-3">ORDENAR POR:</h4>
-                        <img alt="" src="img/home/icono_nuestro_equipo-11-11.png">
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">Tema</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="mt-1">SOCIEDAD</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">ENTREVISTAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">ECONOMÍA</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">POLÍTICA</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">FECHA</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS RECIENTES</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS ANTIGUAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">OTROS</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS VISTAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                    </div>
+        <main class="container">
+            <div class="banner-escribi row mb-4">
+                <h3 class="categoria col-6 px-5 align-self-center">Escribí en abro hilo</h3>
+                <img alt="" src="img/fotos_autores/banner-autores-03.png" class="col-6 mb-3 p-0">
+            </div>
+            <div class="col-10 mx-auto my-5">
+            <p class="p-suscripcion">Escribinos a <strong>abrohiloblog@gmail.com</strong> adjuntando:</p>
+            <div class="row my-5">
+                <div class="col-xl-4 pasos">
+                    <img  class="pb-3" alt="" src="img/escribir-en-ah/1i.png">
+                    <p class="mx-2">Tu artículo</p>
+                    <img alt="" src="img/escribir-en-ah/1.png">
                 </div>
-                <!-- Notas-->
-                <div class="col-9">
-                    <!--Nota ppal-->
-                        <a href="temas-detalle.html" class="text-decoration-none">
-                        <img class="w-100" alt="" src="https://via.placeholder.com/600x80">
-                        <div   id="nota-ppal" class="p-4 mb-4">
-                            <p class="header-cat-text text-uppercase text-end">Sociedad</p>
-                            <p class="titular-nota-ppal">El hombre de la voz del estadio</p>
-                            <p class="detalle-nota-ppal">Este martes, a la hora de la cena, no sé por qué motivo, me encontré contándole 
-                                a mi hijo el modo en el que la voz del estadio de Boca presentaba a Diego en aquel 
-                                equipo campeón de 1981.</p>
-                            <p class="autor-news-home">Por Gabriel Nuñez</p>
-                        </a>
-                    </div>
-                    <div id="grid-notas">
-                        <!-- Temas.js -->
-                    </div>
+                <div class="col-xl-4 pasos">
+                    <img class="pb-3" alt="" src="img/escribir-en-ah/2i.png">
+                    <p class="mx-2">Una foto</p>
+                    <img alt="" src="img/escribir-en-ah/2.png">
                 </div>
+                <div class="col-xl-4 pasos">
+                    <img class="pb-3" alt="" src="img/escribir-en-ah/3i.png">
+                    <p class="mx-2">Una breve bio</p>
+                    <img alt="" src="img/escribir-en-ah/3.png">
+                </div>
+            </div>
+            <p class="p-suscripcion">Abro Hilo es un espacio abierto, y como tal, nos encantaría recibir tus ideas o artículos. Podés leer nuestra guía 
+                de recomendaciones para saber el estilo de notas que buscamos.
+                <br><br>
+                <strong>¡No dudes en escribirnos si tenés alguna consulta! </strong></p>
+            <button class="btn btn-primary my-4">Descargar guía abro hilo</button>
+            <img class="escribir-foot img-fluid" alt="" src="img/escribir-en-ah/foot.png">
             </div>
         </main>
         <footer class="container-fluid bg-footer pb-5 pt-5">
@@ -129,8 +96,8 @@
                             </div>
                         </div>
                         <div class="navbar-nav center-content footer-nav">
-                            <a class="nav-link" href="autores.html">Autores</a>
-                            <a class="nav-link active" aria-current="page" href="#">Temas</a>
+                            <a class="nav-link active" aria-current="page" href="#">Autores</a>
+                            <a class="nav-link" href="temas.html">Temas</a>
                             <a class="nav-link" href="quienes-somos.html">Quiénes somos</a>
                             <a class="nav-link" href="escribir-en-ah.html">Escribí en ah</a>
                         </div>
@@ -155,6 +122,7 @@
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="js/temas.js"></script>
+        <script type="text/javascript" src="js/autores.js"></script>
     </body>
 </html>
+    

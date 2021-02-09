@@ -14,7 +14,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-        <title>Abro Hilo - Temas</title>
+        <title>Abro Hilo - Temas </title>
     </head>
     <body>
         <!-- Just an image -->
@@ -29,7 +29,7 @@
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav center-content">
                         <a class="nav-link" href="autores.html">Autores</a>
-                        <a class="nav-link active" aria-current="page"  href="#">Temas</a>
+                        <a class="nav-link active" aria-current="page"  href="temas.html">Temas</a>
                         <a class="nav-link" href="quienes-somos.html">Quiénes somos</a>
                         <a class="nav-link" href="escribir-en-ah.html">Escribí en ah</a>
                     </div>
@@ -44,70 +44,48 @@
             </div>
         </nav>
         <main class="container mb-5">
-            <div class="row">
-                <!-- ASIDE filtros-->
-                <div class="col-3" id="filtros-aside">
-                    <div class="autores-index d-flex align-items-start">
-                        <h4 class="py-3">ORDENAR POR:</h4>
-                        <img alt="" src="img/home/icono_nuestro_equipo-11-11.png">
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">Tema</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="mt-1">SOCIEDAD</p><p class="mx-2 mt-1 text-muted">(25)</p>
+                <!--Nota ppal-->
+                <div class="row">
+                    <div id="encabezado-nota" class="col-xl-6  px-5 py-3">
+                        <div class="banner-autores d-flex justify-content-between mb-4">
+                            <div class="align-self-center">
+                              <img src="img/home/icono_contacto.png"><p class="header-cat-text text-uppercase d-inline px-2">Sociedad</p>
+                            </div>
+                            <p class="header-fecha">09/12/2020</p>
                         </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">ENTREVISTAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">ECONOMÍA</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">POLÍTICA</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">FECHA</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS RECIENTES</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS ANTIGUAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
-                    </div>
-                    <div>
-                        <p class="header-cat-text text-uppercase mb-4">OTROS</p>
-                        <div class="d-flex align-items-start my-2 item-lista">
-                            <img class="mx-2" alt="" src="img/home/icono_in.png">
-                            <p class="bajada-news-home mt-1">MÁS VISTAS</p><p class="mx-2 mt-1 text-muted">(25)</p>
-                        </div>
+                        <p class="titular-nota-ppal">El hombre de la voz del estadio</p>
+                        <br>
+                        <p class="autor-news-home">Por Gabriel Nuñez</p>
+                    </div>    
+                    <div class="col-xl-6 imagen-ppal">
+                        <img alt="" src="img/home/foto_banner.png">
+                        <img class="position-absolute iconos-banner top-0 end-0" alt="" src="img/home/iconos_banner_principal.png">
                     </div>
                 </div>
-                <!-- Notas-->
-                <div class="col-9">
-                    <!--Nota ppal-->
-                        <a href="temas-detalle.html" class="text-decoration-none">
-                        <img class="w-100" alt="" src="https://via.placeholder.com/600x80">
-                        <div   id="nota-ppal" class="p-4 mb-4">
-                            <p class="header-cat-text text-uppercase text-end">Sociedad</p>
-                            <p class="titular-nota-ppal">El hombre de la voz del estadio</p>
-                            <p class="detalle-nota-ppal">Este martes, a la hora de la cena, no sé por qué motivo, me encontré contándole 
-                                a mi hijo el modo en el que la voz del estadio de Boca presentaba a Diego en aquel 
-                                equipo campeón de 1981.</p>
-                            <p class="autor-news-home">Por Gabriel Nuñez</p>
-                        </a>
-                    </div>
-                    <div id="grid-notas">
-                        <!-- Temas.js -->
+                <div class="row col-xl-9 center-content my-5" id="cuerpo-nota">
+                    <p>
+                        Este martes, a la hora de la cena, no sé por qué motivo, me encontré contándole a mi hijo el modo en el que la voz del estadio de Boca presentaba a Diego en aquel equipo campeón de 1981. 
+La comida estaba servida y yo, en ese ida y vuelta a la cocina porque faltaba algún cubierto, me paré como en la mitad de la cancha y le dije que después de escuchar el “con el 5, Ariel Krasouski”, en la tribuna empezábamos a aplaudir y adelantar el coro “Maradooo, Maradooo...” Miles de voces diciendo, cantando, gritando lo mismo, unánimes. Y me emocioné. Sentí los ojos mojados 
+mientras en la casa olía a tarta, a milanesas, a felicidad. 
+<br><br>
+Volví a escuchar esa voz que decía “con el número 10” y el suspenso que creaba aquel hombre detrás de un micrófono invisible para que creciera el fervor, la pasión, la ilusión de un triunfo casi seguro. Seguro porque estaba él, que había llegado poquito tiempo antes desde Argentinos Juniors y que se iba a convertir, primero que nada, en el póster con la cara sonriente y embarrada pegado en mi habitación infantil. Mi hijo, que tiene 7 años, me mira. Tengo su atención, entonces muevo los brazos y trato de reproducir con la voz el aliento de una multitud. La hago afónica, extasiada, desesperada porque al fin desde los parlantes ubicados sobre el techo de los viejos palcos salgan flotando dos nombres y un apellido y se nos claven en el pecho para siempre. Superman sobrevolando el Riachuelo, Batman saliendo desde una cueva en el Parque Lezama, Spiderman colgando desde los fierros del Puente Transbordador. Un 10 por toda capa, los rulos en función 
+de casco de acero, dos piernas curvas que hasta Flash miraría admirado por cómo se mueven. 
+<br><br>
+Me muevo para acá, y me muevo para allá mientras mi hijo se ríe de mí y espera, como yo de la voz del estadio, termine con ese suspenso y diga lo que él y todos esperábamos allí: “Diego Arrrrmandooooo Maradoooooooonnaaaaa”. Cierro los ojos un instante. Los abro hoy, un día después, miércoles 25 de noviembre. Es el mediodía y otra vez estoy yendo y viniendo entre la cocina y la mesa del comedor, esta vez con el almuerzo. Mi hijo juega en Zoom con un amigo. Para no molestarlo, escucho la radio con los auriculares. Llega la noticia. Me esfuerzo por no soltar el plato blanco que estoy llevándole. Lo apoyo en la mesa, me siento y tomo la cabeza con las dos manos. 
+<br><br>
+Dije “No” entre las voces y las aventuras de superhéroes de ese niño que no hace mucho me pidió que a su camiseta argentina le pusiéramos el 10 y el apellido “Maradona”. Por supuesto que sólo 
+lo vio jugar por YouTube, en los aniversarios de El Gol, con la Copa en las manos, con el grito desde las tripas frente a una cámara. No más que eso, pero suficiente. Tanto como las ocho letras del apellido que salían pronunciadas a través de los parlantes. Y yo, que hasta ayer me movía feliz para un lado y otro moviendo los brazos y pidiendo al resto de los hinchas imaginarios que 
+cantaran fuerte por Diego mientras se freían las milanesas, hoy lloro triste. Muy triste.
+                    </p>
+                    <p class="autor-ppal mt-5">Por <strong>Gabriel Nuñez</strong></p>
+                    <a class="text-decoration-none" href="quienes-somos.html"><p class="autor-ppal">Ver BIO</p></a>
+                    <div class="d-flex justify-content-end">
+                        <a class="nav-link" href="https://twitter.com/abrohiloarg"><img src="img/home/icono_tw.png"></a>
+                        <a class="nav-link" href="https://www.linkedin.com/company/abro-hilo/"><img src="img/home/icono_in.png"></a>
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCe29oLsvmxz8IPoRj_UtA8w"><img src="img/home/icono_yt.png"></a>
                     </div>
                 </div>
-            </div>
+
         </main>
         <footer class="container-fluid bg-footer pb-5 pt-5">
             <div class="container">
