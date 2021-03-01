@@ -55,6 +55,7 @@ body {
     text-transform: uppercase;
     color: #61C3D9;
 }
+
 .titular {
     font-size: 22px;
     font-weight: 700;
@@ -76,29 +77,24 @@ body {
     border-top: solid 8px #042698;
 }
 .autores-index {
-    position: relative;
     display: block;
     border-bottom: solid 2px #61C3D9;
+    margin-top: 20px;
 }
-.autores-index h4 {
-    padding: 0px 0px;
-    margin: 0px 0px;
+.title-aside {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 900;
     color: #042698;
     display: inline;
-    margin: 10px 10px;
 }
+
 .autores-index img {
     width: 70px;
-    display: inline;
-    margin-left: 20%;
     margin-bottom: 10px;
     margin-top: 5px;
 }
-.box-autor-home {
-}
+
 .foto_autores_home {
     width: 100%;
 }
@@ -106,6 +102,10 @@ body {
     font-weight: 700;
     color: #0C1355;
     font-size: 16px;
+}
+
+.contenido {
+    padding-left: 1.5rem;
 }
 
 .h3-suscripcion {
@@ -229,10 +229,11 @@ body {
     margin-bottom: 10px;
 }
 .footer-nav {
-    display: inline !important;
+    display: inline;
 }
+
 .footer-nav .nav-link {
-    display: inline !important;
+    display: inline;
     margin: 0px;
     margin-right: 14px;
     padding-top: 10px;
@@ -416,6 +417,9 @@ body {
     color: #042698;
 }
 
+.somos {
+    width: 15%;
+}
 
 
 @media only screen and (min-width: 992px) {
@@ -423,14 +427,57 @@ body {
         margin: 0px 15px;
     }
     .social-media a {
-        margin: 0px 0px !important;
+        margin: 0px 0px;
+    }
+    #grid-autores {
+      grid-template-columns: repeat(auto-fit, minmax(20%,1fr));
     }
 }
-@media only screen and (min-width: 320px) {
+
+
+@media only screen and (max-width: 992px) {
+    .banner-autores img, .banner-escribi img {
+        display: none;
+    }
+    .banner-autores h3, .banner-escribi h3 {
+        padding: 1rem;
+    }
+    #grid-autores {
+        grid-template-columns: repeat(auto-fit, minmax(50%,1fr));
+      }
+      .somos {
+        width: 30%;
+    }
+    #quienes-somos h1 {
+        font-size: 20px;
+    }
+    .img-middle {
+        display: none;
+    }
+}
+
+
+@media only screen and (min-width: 500px) {
     .social-media {
         flex-direction: row;
     }
     .social-media a {
         margin: 0px 5px;
+    }
+    .navbar-nav {
+        flex-direction: row;
+        margin-top: 1rem;
+    }
+    .info-izq {
+        margin-bottom: 10px;
+    }
+    .footer-nav .nav-link {
+        font-size: 12px;
+    }
+    .h4-contacto-footer{
+        margin-top: 20px;
+    }
+    .tweet {
+        width: 100%;
     }
 }
