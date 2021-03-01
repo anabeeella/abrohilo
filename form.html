@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Bootstrap CSS -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <!--FONTS-->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        </style>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+        <title>Abro Hilo - Subir nota</title>
+    </head>
+    <body>
+        <main class="container col-sm-9 col-lg-6" id="formulario">
+            <h1 class="mb-5">Formulario de carga</h1>
+            <form>
+                <input class="form-control mb-2" type="text" name="titulo" placeholder="Título">
+                <textarea class="form-control mb-2" id="bajada" rows="2" placeholder="Bajada"></textarea>
+                <input class="form-control mb-3" type="date" name="fecha-nota" value="2021-03-01">
+                <label for="foto-ppal">Foto principal:</label><input class="form-control mb-2" type="file" id="foto-ppal" name="foto-principal">
+                <input class="form-control mb-2" type="text" name="epigrafe-ppal" placeholder="Epígrafe foto principal">
+                <select class="form-select" aria-label="Default select example">
+                    <option selected>Categoría</option>
+                    <option value="1">Política</option>
+                    <option value="2">Sociedad</option>
+                    <option value="3">Economía</option>
+                    <option value="4">Entrevistas</option>
+                  </select>
+                <hr class="m-5">
+                <h3>Bloque 1</h3>
+                <input class="form-control mb-2" type="text" name="subtitulo-1" placeholder="Subtítulo">
+                <textarea class="form-control mb-2" id="cuerpo-1" rows="2" placeholder="Cuerpo"></textarea>
+                <label for="foto-ppal">Foto/Video Bloque 1</label><input class="form-control mb-2" type="file" id="foto-bloque1" name="foto-bloque1">
+                <input class="form-control mb-2" type="text" name="epigrafe-bloque1" placeholder="Epígrafe Foto/Video Bloque 1">
+                <hr class="m-5">
+                <h3>Bloque 2</h3>
+                <input class="form-control mb-2" type="text" name="subtitulo-2" placeholder="Subtítulo">
+                <textarea class="form-control mb-2" id="cuerpo-2" rows="2" placeholder="Cuerpo"></textarea>
+                <label for="foto-ppal">Foto/Video Bloque 2</label><input class="form-control mb-2" type="file" id="foto-bloque2" name="foto-bloque2">
+                <input class="form-control mb-2" type="text" name="epigrafe-bloque2" placeholder="Epígrafe Foto/Video Bloque 2">
+                <hr class="m-5">
+                <h3>Bloque 3</h3>
+                <input class="form-control mb-2" type="text" name="subtitulo-3" placeholder="Subtítulo">
+                <textarea class="form-control mb-2" id="cuerpo-3" rows="2" placeholder="Cuerpo"></textarea>
+                <label for="foto-ppal">Foto/Video Bloque 3</label><input class="form-control mb-2" type="file" id="foto-bloque3" name="foto-bloque3">
+                <input class="form-control mb-2" type="text" name="epigrafe-bloque3" placeholder="Epígrafe Foto/Video Bloque 3">
+                <hr class="m-5">
+                <h3>Bloque 4</h3>
+                <input class="form-control mb-2" type="text" name="subtitulo-4" placeholder="Subtítulo">
+                <textarea class="form-control mb-2" id="cuerpo-4" rows="2" placeholder="Cuerpo"></textarea>
+                <label for="foto-ppal">Foto/Video Bloque 4</label><input class="form-control mb-2" type="file" id="foto-bloque4" name="foto-bloque4">
+                <input class="form-control mb-2" type="text" name="epigrafe-bloque3" placeholder="Epígrafe Foto/Video Bloque 4">
+                <hr class="m-5">
+                <button type="submit" class="btn btn-primary btn-lg w-100 mb-5">Subir</button>
+            </form>
+        </main>
+    <script src="bootstrap/js/bootstrap.js" crossorigin="anonymous"></script>
+</body>
+</html>
